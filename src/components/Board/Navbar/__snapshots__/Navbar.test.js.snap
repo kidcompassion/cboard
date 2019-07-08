@@ -21,7 +21,11 @@ ShallowWrapper {
     }
     className="string"
     disabled={false}
-    intl={Object {}}
+    intl={
+      Object {
+        "formatMessage": [Function],
+      }
+    }
     isLocked={false}
     isScannerActive={false}
     onBackClick={[MockFunction]}
@@ -172,7 +176,11 @@ ShallowWrapper {
     }
     className="string"
     disabled={false}
-    intl={Object {}}
+    intl={
+      Object {
+        "formatMessage": [Function],
+      }
+    }
     isLocked={true}
     isScannerActive={false}
     onBackClick={[MockFunction]}
